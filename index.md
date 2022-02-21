@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Ari Angg's blog
 
-You can use the [editor on GitHub](https://github.com/ariangg/ariangg.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+this is my first time of create and hosting on github so theres definetly a problem
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### why i start bloging?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+you see.. i want to documenting my journey of learning how to code, and i find blogging is one of the best way to do it
 
 ```markdown
 Syntax highlighted code block
@@ -28,9 +26,9 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### things to know
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ariangg/ariangg.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+you see im completly new so.. 
 
 ### Support or Contact
 
